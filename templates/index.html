@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Luxury Outfit Advisor</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: #fafafa; 
+            min-height: 100vh; 
+            padding: 20px 0;
+        }
+        
+        .container { 
+            max-width: 450px; 
+            margin: 0 auto; 
+            background: white; 
+            border-radius: 24px; 
+            box-shadow: 0 25px 50px -12px rgba(0,0,0,0.1);
+            overflow: hidden;
+            border: 1px solid #f1f5f9;
+        }
+        
+        .hero { 
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 60px 40px; 
+            text-align: center; 
+            color: white;
+        }
+        .hero h1 { 
+            font-size: 32px; 
+            font-weight: 700; 
+            margin-bottom: 8px;
+            letter-spacing: -0.02em;
+        }
+        .hero p { 
+            font-size: 16px; 
+            opacity: 0.9; 
+            font-weight: 400;
+        }
+        
+        .form-section { padding: 40px; }
+        .input-group { 
+            position: relative; 
+            margin-bottom: 24px;
+        }
+        .input-label { 
+            display: block; 
+            font-size: 14px; 
+            font-weight: 500; 
+            color: #374151; 
+            margin-bottom: 8px;
+            letter-spacing: -0.01em;
+        }
+        .input-field { 
+            width: 100%; 
+            padding: 16px 20px; 
+            font-size: 16px; 
+            border: 2px solid #e5e7eb; 
+            border-radius: 12px;
+            font-weight: 400;
+            transition: all 0.2s;
+            background: #fafafa;
+        }
+        .input-field:focus { 
+            outline: none; 
+            border-color: #667eea; 
+            background: white;
+            box-shadow: 0 0 0 4px rgba(102,126,234,0.1);
+        }
+        
+        .cta-button { 
+            width: 100%; 
+            padding: 20px; 
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white; 
+            border: none; 
+            border-radius: 12px; 
+            font-size: 16px; 
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .cta-button:hover { 
+            transform: translateY(-1px);
+            box-shadow: 0 10px 25px rgba(102,126,234,0.3);
+        }
+        
+        .results-section { 
+            display: none; 
+            padding: 0 40px 40px;
+        }
+        .results-section.show { display: block; }
+        
+        .weather-display { 
+            background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+            padding: 32px; 
+            border-radius: 20px; 
+            text-align: center; 
+            color: white; 
+            margin-bottom: 32px;
+        }
+        .weather-temp { 
+            font-size: 48px; 
+            font-weight: 700; 
+            margin-bottom: 8px;
+            letter-spacing: -0.03em;
+        }
+        .weather-city { 
+            font-size: 18px; 
+            opacity: 0.95;
+        }
+        
+        .outfit-grid { 
+            display: grid; 
+            gap: 20px; 
+        }
+        .outfit-card { 
+            background: white; 
+            padding: 28px; 
+            border-radius: 16px; 
+            border: 1px solid #f3f4f6;
+            transition: all 0.2s;
+        }
+        .outfit-card:hover { 
+            transform: translateY(-2px);
+            box-shadow: 0 20px 40px -10px rgba(0,0,0,0.1);
+            border-color: #667eea;
+        }
+        .outfit-title { 
+            font-size: 18px; 
+            font-weight: 600; 
+            color: #111827; 
+            margin-bottom: 12px;
+        }
+        .outfit-btn { 
+            width: 100%; 
+            padding: 16px 24px; 
+            background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+            color: white; 
+            text-decora
