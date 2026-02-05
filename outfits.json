@@ -1,0 +1,38 @@
+{
+  "cotton_kurtis_long": [
+    {"name": "Cotton Long Kurti", "price": "₹899", "link": "https://www.flipkart.com/search?q=cotton+long+kurti"},
+    {"name": "Printed Cotton Kurti", "price": "₹999", "link": "https://www.myntra.com/kurti"},
+    {"name": "Embroidered Kurti", "price": "₹1299", "link": "https://www.ajio.com/s/kurti"}
+  ],
+  "anarkali_suits": [
+    {"name": "Anarkali Suit Set", "price": "₹1999", "link": "https://www.flipkart.com/anarkali-suits"},
+    {"name": "Floral Anarkali", "price": "₹2499", "link": "https://www.myntra.com/anarkali"},
+    {"name": "Heavy Anarkali", "price": "₹2999", "link": "https://www.ajio.com/anarkali-suits"}
+  ],
+  "palazzo_with_kurti": [
+    {"name": "Kurti + Palazzo Set", "price": "₹1599", "link": "https://www.flipkart.com/kurti-palazzo"},
+    {"name": "Printed Palazzo Set", "price": "₹1799", "link": "https://www.myntra.com/kurti-palazzo-set"}
+  ],
+  "salwar_suits": [
+    {"name": "Cotton Salwar Suit", "price": "₹1299", "link": "https://www.flipkart.com/salwar-suits"},
+    {"name": "Chiffon Salwar", "price": "₹1699", "link": "https://www.myntra.com/salwar-suit"}
+  ],
+  "maxi_tunics": [
+    {"name": "Maxi Cotton Tunic", "price": "₹1099", "link": "https://www.ajio.com/maxi-tunic"},
+    {"name": "Printed Maxi Tunic", "price": "₹1399", "link": "https://www.flipkart.com/maxi-dress"}
+  ],
+  "cotton_kurtas": [
+    {"name": "Men Cotton Kurta", "price": "₹799", "link": "https://www.flipkart.com/men-kurta"},
+    {"name": "Pathani Kurta", "price": "₹999", "link": "https://www.myntra.com/men-kurta"}
+  ],
+  "pathani_suits": [
+    {"name": "Pathani Suit Set", "price": "₹1499", "link": "https://www.ajio.com/pathani-suit"}
+  ],
+  "chino_pants": [
+    {"name": "Slim Fit Chinos", "price": "₹1299", "link": "https://www.flipkart.com/chino-pants-men"},
+    {"name": "Cotton Chinos", "price": "₹1099", "link": "https://www.myntra.com/chinos"}
+  ],
+  "button_shirts": [
+    {"name": "Cotton Button Shirt", "price": "₹899", "link": "https://www.flipkart.com/men-shirts"}
+  ]
+}
