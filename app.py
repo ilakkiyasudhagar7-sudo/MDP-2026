@@ -15,7 +15,7 @@ def index():
         gender = request.form["gender"]
 
         # Mock weather data (can replace with ML later)
-        temp = 26
+        temp = 35
         humidity = 65
 
         # Simple comfort score formula
