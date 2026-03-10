@@ -1,22 +1,16 @@
 {
   "cotton_kurtis_long": [
     {
-      "name": "Lightweight Cotton Kurti",
-      "price": "₹799",
-      "image": "https://images.unsplash.com/photo-1583391733956-6c78276477e1",
+      "name": "Printed Cotton Kurti",
+      "price": "₹899",
+      "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990",
       "link": "https://www.myntra.com/women-kurtis"
     },
     {
-      "name": "Printed Daily Wear Kurti",
-      "price": "₹899",
-      "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990",
-      "link": "https://www.flipkart.com/search?q=cotton+kurti"
-    },
-    {
-      "name": "Sleeveless Summer Kurti",
-      "price": "₹699",
+      "name": "Daily Wear Cotton Kurti",
+      "price": "₹799",
       "image": "https://images.unsplash.com/photo-1594633313593-bab3825d0caf",
-      "link": "https://www.ajio.com/search/?text=cotton%20kurti"
+      "link": "https://www.flipkart.com/search?q=cotton+kurti"
     }
   ],
 
@@ -37,16 +31,16 @@
 
   "anarkali_suits": [
     {
-      "name": "Floral Anarkali Dress",
+      "name": "Floral Anarkali Suit",
       "price": "₹2099",
       "image": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03",
       "link": "https://www.myntra.com/anarkali-kurtas"
     },
     {
-      "name": "Elegant Anarkali Suit",
+      "name": "Elegant Anarkali Dress",
       "price": "₹2499",
       "image": "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176",
-      "link": "https://www.ajio.com/search/?text=anarkali%20dress"
+      "link": "https://www.ajio.com/search/?text=anarkali+dress"
     }
   ],
 
@@ -70,7 +64,7 @@
       "name": "Loose Maxi Tunic",
       "price": "₹1099",
       "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1",
-      "link": "https://www.ajio.com/search/?text=maxi%20dress"
+      "link": "https://www.ajio.com/search/?text=maxi+dress"
     },
     {
       "name": "Cotton Maxi Dress",
