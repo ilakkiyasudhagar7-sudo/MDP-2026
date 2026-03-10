@@ -3,103 +3,95 @@
     {
       "name": "Lightweight Cotton Kurti",
       "price": "₹799",
-      "link": "https://www.myntra.com/women-kurtis?f=Fabric%3ACotton"
+      "image": "https://images.unsplash.com/photo-1583391733956-6c78276477e1",
+      "link": "https://www.myntra.com/women-kurtis"
+    },
+    {
+      "name": "Printed Daily Wear Kurti",
+      "price": "₹899",
+      "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990",
+      "link": "https://www.flipkart.com/search?q=cotton+kurti"
     },
     {
       "name": "Sleeveless Summer Kurti",
       "price": "₹699",
-      "link": "https://www.flipkart.com/search?q=sleeveless+cotton+kurti"
-    },
-    {
-      "name": "Printed Daily Wear Cotton Kurti",
-      "price": "₹899",
+      "image": "https://images.unsplash.com/photo-1594633313593-bab3825d0caf",
       "link": "https://www.ajio.com/search/?text=cotton%20kurti"
     }
   ],
 
   "palazzo_with_kurti": [
     {
-      "name": "Cotton Kurti with Palazzo Set",
-      "price": "₹1499",
+      "name": "Kurti Palazzo Set",
+      "price": "₹1599",
+      "image": "https://images.unsplash.com/photo-1593032465171-8f0f2fbdcdd1",
       "link": "https://www.myntra.com/kurta-palazzo-set"
     },
     {
-      "name": "Summer Palazzo Kurti Set",
-      "price": "₹1599",
-      "link": "https://www.flipkart.com/search?q=kurti+palazzo+set"
+      "name": "Printed Palazzo Suit",
+      "price": "₹1799",
+      "image": "https://images.unsplash.com/photo-1602810319428-019690571b5b",
+      "link": "https://www.flipkart.com/search?q=palazzo+set"
     }
   ],
 
   "anarkali_suits": [
     {
-      "name": "Light Anarkali Suit",
-      "price": "₹1899",
+      "name": "Floral Anarkali Dress",
+      "price": "₹2099",
+      "image": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03",
       "link": "https://www.myntra.com/anarkali-kurtas"
     },
     {
-      "name": "Floral Anarkali Dress",
-      "price": "₹2099",
+      "name": "Elegant Anarkali Suit",
+      "price": "₹2499",
+      "image": "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176",
       "link": "https://www.ajio.com/search/?text=anarkali%20dress"
     }
   ],
 
   "salwar_suits": [
     {
-      "name": "Cotton Salwar Kameez Set",
+      "name": "Cotton Salwar Suit",
       "price": "₹1299",
-      "link": "https://www.flipkart.com/search?q=cotton+salwar+suit"
+      "image": "https://images.unsplash.com/photo-1595341595379-cf1cd0fb7fb3",
+      "link": "https://www.flipkart.com/search?q=salwar+suit"
     },
     {
-      "name": "Daily Wear Straight Suit Set",
-      "price": "₹1399",
+      "name": "Traditional Suit Set",
+      "price": "₹1499",
+      "image": "https://images.unsplash.com/photo-1602810316693-3667c854239a",
       "link": "https://www.myntra.com/salwar-suits"
     }
   ],
 
   "maxi_tunics": [
     {
-      "name": "Loose Fit Maxi Tunic",
+      "name": "Loose Maxi Tunic",
       "price": "₹1099",
-      "link": "https://www.ajio.com/search/?text=maxi%20tunic"
+      "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1",
+      "link": "https://www.ajio.com/search/?text=maxi%20dress"
     },
     {
       "name": "Cotton Maxi Dress",
       "price": "₹1299",
-      "link": "https://www.flipkart.com/search?q=maxi+dress+cotton"
+      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+      "link": "https://www.flipkart.com/search?q=maxi+dress"
     }
   ],
 
   "cotton_kurtas": [
     {
-      "name": "Men's Cotton Kurta",
+      "name": "Men Cotton Kurta",
       "price": "₹799",
-      "link": "https://www.myntra.com/men-kurtas?f=Fabric%3ACotton"
+      "image": "https://images.unsplash.com/photo-1622445275463-afa2ab738c34",
+      "link": "https://www.myntra.com/men-kurtas"
     },
     {
       "name": "Short Cotton Kurta",
       "price": "₹699",
-      "link": "https://www.flipkart.com/search?q=mens+short+kurta"
-    }
-  ],
-
-  "pathani_suits": [
-    {
-      "name": "Classic Pathani Suit",
-      "price": "₹1699",
-      "link": "https://www.ajio.com/search/?text=pathani%20suit"
-    }
-  ],
-
-  "chino_pants": [
-    {
-      "name": "Slim Fit Chino Pants",
-      "price": "₹1299",
-      "link": "https://www.myntra.com/chinos-men"
-    },
-    {
-      "name": "Casual Cotton Chinos",
-      "price": "₹1099",
-      "link": "https://www.flipkart.com/search?q=men+chino+pants"
+      "image": "https://images.unsplash.com/photo-1593032465175-481ac7f401a0",
+      "link": "https://www.flipkart.com/search?q=mens+kurta"
     }
   ],
 
@@ -107,12 +99,29 @@
     {
       "name": "Linen Summer Shirt",
       "price": "₹999",
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c",
       "link": "https://www.myntra.com/linen-shirts-men"
     },
     {
-      "name": "Cotton Casual Shirt",
+      "name": "Casual Cotton Shirt",
       "price": "₹899",
-      "link": "https://www.flipkart.com/search?q=men+cotton+shirt"
+      "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157",
+      "link": "https://www.flipkart.com/search?q=men+shirt"
+    }
+  ],
+
+  "chino_pants": [
+    {
+      "name": "Slim Fit Chino Pants",
+      "price": "₹1299",
+      "image": "https://images.unsplash.com/photo-1584865288642-42078afe6942",
+      "link": "https://www.myntra.com/chinos-men"
+    },
+    {
+      "name": "Casual Cotton Chinos",
+      "price": "₹1099",
+      "image": "https://images.unsplash.com/photo-1583001809900-6e2f8f2e2c54",
+      "link": "https://www.flipkart.com/search?q=men+chino+pants"
     }
   ]
 }
