@@ -99,7 +99,9 @@
                 <div class="outfit-info">
                     <div class="outfit-name">{{ item.name }}</div>
                     <div class="price">{{ item.price }}</div>
-                    <a href="/buy?url={{ item.link }}" class="buy-btn">🛒 Buy Now</a>
+                    <a href="/buy?url={{ item.link }}" target="_blank">
+                    <button>Buy Now</button>
+                    </a>
                 </div>
             </div>
             {% endfor %}
